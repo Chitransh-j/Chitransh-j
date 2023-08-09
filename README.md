@@ -5,13 +5,13 @@
 <hr/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Z_Z9gYlFDc0AAAAC/hello-penguin.gif">
 
-- 💬 Ask me about **ReactJS,Javascript and Football.**
+- 💬 Ask me about **ReactJS, Data Structures, Algorithms and Football.**
 
 - 📫 How to reach me **chitranshjawere@gmail.com**
 
 - 🗒️ Here's my resume : [Click Me 👈](https://flowcv.com/resume/lcbsv8t4js)
 
-- ⚡ Fun fact **I Love Football and animes.**
+- ⚡ Fun fact: **I Love Football and anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
