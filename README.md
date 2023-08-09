@@ -3,7 +3,7 @@
 <h3 align="center">A newbie in the world of Development.</h3>
 
 <hr/>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejYyaXQ0OTIyMWV3cWgzOWZpanlzbXUwdGpoMTRnYmxhdTVzNThrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5brOm0QM56xWUpaqDz/source.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Z_Z9gYlFDc0AAAAC/hello-penguin.gif">
 
 - 💬 Ask me about **ReactJS,Javascript and Football.**
 
