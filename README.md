@@ -1,4 +1,4 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)](https://flowcv.com/resume/lcbsv8t4js)
 <h1 align="center">Hi 👋, I'm Chitransh Jawere</h1>
 <h3 align="center">A newbie in the world of Development.</h3>
 
