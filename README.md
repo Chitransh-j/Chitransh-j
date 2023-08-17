@@ -5,7 +5,7 @@
 <hr/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Z_Z9gYlFDc0AAAAC/hello-penguin.gif">
 
-- 💬 Ask me about **ReactJS, Data Structures, Algorithms and Football.**
+- 💬 Ask me about **Data Structures, Algorithms, JavaScript , ReactJS and Football.**
 
 - 📫 How to reach me : **chitranshjawere@gmail.com**
 
