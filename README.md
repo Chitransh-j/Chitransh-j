@@ -9,8 +9,6 @@
 
 - 📫 How to reach me : **chitranshjawere@gmail.com**
 
-- 🗒️ Here's my resume : [Click Me 👈](https://flowcv.com/resume/lcbsv8t4js)
-
 - ⚡ Fun fact : **I Love Football and anime.**
 
 <h3 align="left">Connect with me:</h3>
