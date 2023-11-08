@@ -22,9 +22,15 @@
  </div>
 
 <div align="center">
- <a href="https://www.codechef.com/users/chitransh34" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCodeChef-Admin&psig=AOvVaw0b9kAgeVK0YFeSIKSt_ECO&ust=1699513491301000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDdlqDrs4IDFQAAAAAdAAAAABAI" alt="chitransh34" height="30" width="40" />CodeChef</a>
-    <a href="https://www.leetcode.com/chitransh_jawere_34" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="chitransh_jawere_34" height="30" width="40" />LeetCode</a>
-    <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210401170620/gfg-300x300.jpg" alt="chitranshjawere" height="30" width="40" />GeeksForGeeks</a>
+<a href="https://www.codechef.com/users/chitransh34">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/chitransh_jawere_34/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="_blank">
+     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank" />
+  </a>
 
 </div>
 <div align="center"> 
