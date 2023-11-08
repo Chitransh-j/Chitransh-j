@@ -18,11 +18,13 @@
  ⚡ Fun fact **Every 60 seconds a minute passes.⌚**
  
  </div>
- 
-<div align="center"> 
-     <a href="https://www.codechef.com/users/chitransh34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chitransh3" height="30" width="40" /></a>
+
+ <a href="https://www.codechef.com/users/chitransh34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chitransh3" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/chitransh_jawere_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-                    code.svg" alt="chitransh_jawere_34" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chitranshjawere" height="30" width="40" /></a>
+ 
+<div align="center"> 
+    
 
   <a href="mailto:chitranshjawere@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
