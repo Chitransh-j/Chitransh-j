@@ -7,7 +7,8 @@
 <br/>
 
 <div align="center">
- 
+ 📜Here's my Resume : [https://flowcv.com/resume/lcbsv8t4js](https://flowcv.com/resume/lcbsv8t4js)
+    
  💻I’m currently working on **A Full stack Application**
  
  🌱 I’m currently learning **MongoDB, Jest and ExpressJS**
@@ -15,6 +16,12 @@
  💬 Ask me about **NodeJS, ReactJS, JavaScript, Data Structures and Algorithms... or anything fun!**
 
  ⚡ Fun fact **Every 60 seconds a minute passes.⌚**
+ <a href="https://www.codechef.com/users/chitransh3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chitransh3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chitransh_jawere_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chitransh_jawere_34" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chitranshjawere" height="30" width="40" /></a>
+</p>
+
+
  
  </div>
  
