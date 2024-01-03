@@ -57,7 +57,8 @@
 </div>
 
 <br/>
-![](https://komarev.com/ghpvc/?username=Chitransh-j&color=green)
+
+<img src="https://komarev.com/ghpvc/?username=Chitransh-j&label=Profile%20views&color=0e75b6&style=flat" alt="chitransh" />&nbsp;&nbsp;&nbsp;&nbsp;
 <hr/>
 
   
