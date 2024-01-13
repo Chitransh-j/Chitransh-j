@@ -25,7 +25,7 @@
 <a href="https://www.codechef.com/users/chitransh34">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/chitransh_jawere_34/" target="_blank">
+  <a href="https://leetcode.com/IchigoGoes/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="_blank">
