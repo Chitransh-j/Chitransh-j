@@ -4,8 +4,8 @@
 
 A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.
 
-<br/>
 <hr/>
+<br/>
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
@@ -14,8 +14,8 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,postman,tailwind" /><br>
 </div>
 
-<br/>
 <hr/>
+<br/>
 
 <h3 align="center">💻 Coding Profiles 💻</h3>
 <div align="center">
@@ -30,8 +30,8 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
   </a>
 
 </div>
-<br/>
 <hr/>
+<br/>
 
 ### Socials
 
