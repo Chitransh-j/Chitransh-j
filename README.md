@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Chitransh 
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi ! I'm Chitransh 
 ========================================================================================================================================
 <br/>
 
@@ -6,10 +6,9 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 
 <br/>
 
-<div>
- 💬 Ask me about **NodeJS, ReactJS, JavaScript, Data Structures and Algorithms... or anything fun!**
- 📜Here's my Resume: https://flowcv.com/resume/lcbsv8t4js
-</div>
+💬 Ask me about **NodeJS, ReactJS, JavaScript, Data Structures and Algorithms... or anything fun!**
+📜Here's my Resume: [Click Me]https://flowcv.com/resume/lcbsv8t4js
+
 <br/>
 <hr/>
 
