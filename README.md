@@ -5,19 +5,18 @@
 A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.
 
 <hr/>
-<br/>
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,cpp,jest" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,postman,tailwind" /><br>
 </div>
-
+<br/>
 <hr/>
 <br/>
 
-<h3 align="center">💻 Coding Profiles 💻</h3>
+<h2 align="center">💻 Coding Profiles 💻</h2>
 <div align="center">
 <a href="https://www.codechef.com/users/chitransh34">
     <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
@@ -30,6 +29,7 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
   </a>
 
 </div>
+<br/>
 <hr/>
 <br/>
 
