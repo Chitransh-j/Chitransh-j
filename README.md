@@ -14,8 +14,6 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 </div>
 <br/>
 <hr/>
-<br/>
-
 <h2 align="center">💻 Coding Profiles 💻</h2>
 <div align="center">
 <a href="https://www.codechef.com/users/chitransh34">
