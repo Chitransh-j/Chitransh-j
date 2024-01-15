@@ -7,7 +7,8 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 <br/>
 
 💬 Ask me about **NodeJS, ReactJS, JavaScript, Data Structures and Algorithms... or anything fun!**
-📜Here's my Resume: [Click Me]https://flowcv.com/resume/lcbsv8t4js
+<br/>
+📜Here's my Resume:![Click Me]https://flowcv.com/resume/lcbsv8t4js
 
 <br/>
 <hr/>
