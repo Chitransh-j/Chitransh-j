@@ -4,13 +4,7 @@
 
 A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.
 
-<hr/>
 <br/>
-
-<a href="https://www.github.com/Chitransh-j" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Chitransh-j?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
-
-
 <hr/>
 
 ### Skills
