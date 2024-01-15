@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Chitransh 
 ========================================================================================================================================
+<br/>
 
-Aspiring Full Stack Developer
------------------------------
-
-A Budding Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.
+A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.
 
 <br/>
 
