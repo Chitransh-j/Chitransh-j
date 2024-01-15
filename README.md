@@ -18,6 +18,22 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 <br/>
 <hr/>
 
+## Coding Profiles
+
+<div align="center">
+<a href="https://www.codechef.com/users/chitransh34">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/IchigoGoes/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="_blank">
+     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank" />
+  </a>
+
+</div>
+<br/>
+<hr/>
 
 ### Socials
 
