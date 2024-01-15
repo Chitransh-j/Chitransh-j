@@ -6,13 +6,25 @@ Aspiring Full Stack Developer
 
 Passionate Full Stack Developer specializing in the MERN stack with a strong foundation in UI/UX design. Proficient in React.js, I've successfully built projects by leveraging custom APIs. Well-versed in the latest market trends, I bring expertise in Tailwind CSS and TypeScript,too. My standout attribute lies in my adept problem-solving skills, coupled with a deep understanding of Data Structures and Algorithms (DSA). With a knack for efficiently tackling challenges, I am committed to delivering innovative and seamless solutions.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Website](http://chitransh-j.github.io/personal-portfolio/)
-* ✉️  You can contact me at [chitranshjawere@gmail.com](mailto:chitranshjawere@gmail.com)
-* 🚀  I'm currently working on [A Full Stack Application](http://github.com/Chitransh-j/nasaproject)
-* 🧠  I'm learning MongoDB and Jest.
-* 🤝  I'm open to collaborating on React.js ,Node.js and Express.js based projects.
-* ⚡  I am ⭐⭐⭐ on Codechef and have solved over 1000 DSA questions on LeetCode and GFG.
+
+<br/>
+
+<div align="center">
+ 
+    
+ 💻I’m currently working on **A Full stack Application**
+ 
+ 🌱 I’m currently learning **MongoDB, Jest and ExpressJS**
+
+ 💬 Ask me about **NodeJS, ReactJS, JavaScript, Data Structures and Algorithms... or anything fun!**
+
+ ⚡ Fun fact **Every 60 seconds a minute passes.⌚**
+
+ 📜Here's my Resume: https://flowcv.com/resume/lcbsv8t4js
+ 
+ </div>
+
+
 
 <a href="https://www.github.com/Chitransh-j" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Chitransh-j?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
