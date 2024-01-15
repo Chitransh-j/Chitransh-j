@@ -6,18 +6,17 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 
 <br/>
 
-<div align="center">
- 
+<div>
  💬 Ask me about **NodeJS, ReactJS, JavaScript, Data Structures and Algorithms... or anything fun!**
- 
  📜Here's my Resume: https://flowcv.com/resume/lcbsv8t4js
- 
- </div>
+</div>
 <br/>
-
+<hr/>
 
 <a href="https://www.github.com/Chitransh-j" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Chitransh-j?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
+
+<hr/>
 
 ### Skills
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
