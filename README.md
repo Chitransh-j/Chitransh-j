@@ -11,7 +11,7 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,cpp,jest" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,postman,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,next,express,mysql,postman,tailwind" /><br>
 </div>
 <br/>
 <hr/>
