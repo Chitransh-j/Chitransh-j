@@ -2,7 +2,8 @@
 ========================================================================================================================================
 <br/>
 
-A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.
+A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.<br/><br/>
+<b>Fact</b>:- Every day, I thank the divine powers above for whoever conjured up Tailwind. 🙂
 
 <hr/>
 
