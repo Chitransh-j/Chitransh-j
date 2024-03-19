@@ -42,4 +42,4 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 <h2><b>My GitHub Stats</b></h2>
 <br/>
 
-<a href="https://github.com/Chitransh-j" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitransh-j&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
