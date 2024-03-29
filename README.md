@@ -3,15 +3,14 @@
 <br/>
 
 A Full Stack Developer with expertise in problem-solving, Data Structures, and Algorithms.<br/><br/>
-<b>Fact</b>:- Every day, I thank the divine powers above for whoever conjured up Tailwind. 🙂
-
+<b>PS</b>: I am proficient in making serverless backends and pointless jokes.🙂
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,cpp,jest" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,next,express,mysql,postman,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,next,express,mysql,postman,tailwind,mongodb" /><br>
 </div>
 <br/>
 <hr/>
