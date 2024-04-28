@@ -14,7 +14,7 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 </div>
 <br/>
 <hr/>
-<h2 align="center">💻 Coding Profiles 💻</h2>
+<h2 align="center">Coding Profiles 💻</h2>
 <br/>
 <div align="center">
 <a href="https://www.codechef.com/users/chitransh34">
@@ -30,7 +30,7 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 </div>
 <br/>
 <hr/>
-<br/>
+
 <h2 align="center">My GitHub Stats and a Quote 📊 </h2>
 
 | ![Chitransh-j's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitransh-j&layout=compact) | ![image](https://github.com/Chitransh-j/Chitransh-j/assets/135858715/fd42dce1-205d-4021-adf8-d50111de5f86) |
