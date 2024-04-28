@@ -40,4 +40,14 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 
 <h2><b>My GitHub Stats</b></h2>
 <br/>
-<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=Chitransh-j&show_icons=true&locale=en&theme=dracula" alt="Chitransh-j"/>
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitransh-j&layout=compact" alt="Chitransh-j" style="margin-right: 10px;">
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chitransh-j/Chitransh-j/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Chitransh-j/Chitransh-j/raw/output/github-snake.svg">
+  <img alt="snk" src="https://github.com/fky2015/Chitransh-j/raw/output/github-snake.svg">
+</picture>
+
