@@ -37,9 +37,6 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 | ![Chitransh-j's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitransh-j&layout=compact) | ![image](https://github.com/Chitransh-j/Chitransh-j/assets/135858715/fd42dce1-205d-4021-adf8-d50111de5f86) |
 |---|---|
 
-| ![Chitransh-j's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitransh-j&layout=compact) | ![image](https://github.com/Chitransh-j/Chitransh-j/assets/135858715/de0b2198-a5f6-422c-aa45-932358387bf8) |
-|---|---|
-
 
 
 <picture>
