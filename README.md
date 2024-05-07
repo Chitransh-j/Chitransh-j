@@ -9,8 +9,9 @@ A Full Stack Developer with expertise in problem-solving, Data Structures, and A
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,cpp,jest" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,next,express,mysql,postman,tailwind,mongodb,electron" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,mysql,postman,electron,vscode,git,github,jest,bootstrap" /><br>
+    <br>
 </div>
 <br/>
 <hr/>
