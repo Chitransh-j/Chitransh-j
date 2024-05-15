@@ -2,7 +2,7 @@
 ========================================================================================================================================
 <br/>
 
-A Full Stack Developer with a keen interest in Problem-solving, Data Structures, and Algorithms.<br/><br/>
+A Full Stack Developer with a keen interest in Problem-solving, Data Structures, Algorithms and Football.<br/><br/>
 <b>PS</b>: I am proficient in making serverless backends and pointless jokes.🙂
 <hr/>
 
