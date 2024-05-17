@@ -3,6 +3,7 @@
 <br/>
 
 A Full Stack Developer with a keen interest in Problem-solving, Data Structures, Algorithms and Football.<br/><br/>
+
 <b>PS</b>: I am proficient in making serverless backends and pointless jokes.🙂
 <hr/>
 
@@ -18,16 +19,32 @@ A Full Stack Developer with a keen interest in Problem-solving, Data Structures,
 <h2 align="center">Coding Profiles 💻</h2>
 <br/>
 <div align="center">
-<a href="https://www.codechef.com/users/chitransh34">
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/IchigoGoes/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="_blank">
-     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank" />
-  </a>
-
+<table>
+  <tr>
+    <td>
+        <a href="https://leetcode.com/IchigoGoes/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" />
+      </a>
+    </td>
+    <td>
+      <a href="https://auth.geeksforgeeks.org/user/chitranshjawere" target="_blank">
+         <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://codeforces.com/profile/chitransh34" target="_blank">
+         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank" />
+      </a>
+    </td>
+    <td>
+        <a href="https://www.codechef.com/users/chitransh34" target="_blank">
+        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 <br/>
 <hr/>
