@@ -19,7 +19,7 @@ I live by "It works if it works".<br/><br/>
 </div>
 <br/>
 <hr/>
-<h2 align="center">Coding Profiles 💻</h2>
+<!-- <h2 align="center">Coding Profiles 💻</h2>
 <br/>
 <div align="center">
 <table>
@@ -50,7 +50,7 @@ I live by "It works if it works".<br/><br/>
 </table>
 </div>
 <br/>
-<hr/>
+<hr/> -->
 
 <h2 align="center">My GitHub Stats and a Quote 📊 </h2>
 
