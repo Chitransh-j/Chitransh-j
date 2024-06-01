@@ -13,8 +13,8 @@ I live by "It works if it works".<br/><br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,mongodb,express,react,nodejs" />
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,mysql,postman,electron,vscode,git,github,jest,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,mongodb,express,react,nodejs,nextjs" />
+    <img src="https://skillicons.dev/icons?i=tailwind,prisma,mysql,postman,electron,vscode,git,github,jest,bootstrap" /><br>
     <br>
 </div>
 <br/>
