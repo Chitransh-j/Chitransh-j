@@ -63,7 +63,7 @@ I live by "It works if it works".<br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chitransh-j/Chitransh-j/raw/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Chitransh-j/Chitransh-j/raw/output/github-snake.svg">
-  <img alt="snk" src="https://github.com/fky2015/Chitransh-j/raw/output/github-snake.svg">
+  <img alt="a-snake-refresh-to-see" src="https://github.com/fky2015/Chitransh-j/raw/output/github-snake.svg">
 </picture>
 
 <br/>
