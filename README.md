@@ -4,10 +4,6 @@
 A Full Stack Developer with a keen interest in Problem-solving, Data Structures, Algorithms and Football.<br/><br/>
 I am proficient in making serverless backends and pointless jokes.🙂<br/><br/>
 I live by "It works if it works".<br/><br/>
-<br>
-<p align="center">
-<img src="https://github.com/Chitransh-j/Chitransh-j/assets/135858715/1df1e0ea-2d94-45e6-948a-2d8fe8de8f23" />
-</p>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
