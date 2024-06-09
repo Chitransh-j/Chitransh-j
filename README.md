@@ -2,7 +2,7 @@
 ========================================================================================================================================
 <br/>
 A Full Stack Developer with a keen interest in Problem-solving, Data Structures, Algorithms and Football.<br/><br/>
-I am proficient in making serverless utilities and pointless jokes.🙂<br/><br/>
+I am proficient in making Nextjs serverless utilities and pointless jokes.🙂<br/><br/>
 I live by "It works if it works".<br/><br/>
 <hr/>
 
