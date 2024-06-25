@@ -10,7 +10,7 @@ I live by "It works if it works" and firmly believe that Dijkstra's algorithm is
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,express,react,nodejs,nextjs,nest" />
-    <img src="https://skillicons.dev/icons?i=tailwind,prisma,mysql,postman,mongodb,electron,vscode,git,github,jest,mui" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,prisma,mysql,postman,mongodb,electron,vscode,git,github,jest" /><br>
     <br>
 </div>
 <br/>
