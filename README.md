@@ -9,8 +9,8 @@ I live by "It works if it works" and firmly believe that Dijkstra's algorithm is
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,express,react,nodejs,nextjs,nest" />
-    <img src="https://skillicons.dev/icons?i=tailwind,prisma,mysql,postman,mongodb,electron,vscode,git,github,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,react,nodejs,nextjs,nest" /><br/>
+    <img src="https://skillicons.dev/icons?i=express,tailwind,prisma,mysql,git,github,docker" /><br>
     <br>
 </div>
 <br/>
