@@ -1,8 +1,13 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi ! I'm Chitransh 
 ========================================================================================================================================
 <br/>
+
+```bash
+npx chitranshjawere
+```
+
 A Full Stack Developer with a keen interest in Problem-solving, Data Structures, Algorithms and Football.<br/><br/>
-I am proficient in making Nextjs serverless utilities and pointless jokes.🙂<br/><br/>
+I am proficient in making Nextjs serverless actions and pointless jokes.🙂<br/><br/>
 I live by "It works if it works" and firmly believe that Dijkstra's algorithm is witchcraft.🪄<br/><br/>
 <hr/>
 
