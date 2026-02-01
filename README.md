@@ -15,7 +15,7 @@ I live by "It works if it works" and firmly believe that Dijkstra's algorithm is
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,react,nodejs,nextjs,nest" /><br/>
-    <img src="https://skillicons.dev/icons?i=express,electron,tailwind,prisma,mongodb,mysql,git,github,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=express,electron,tailwind,prisma,mongodb,mysql,git,github,docker,k8s" /><br>
     <br>
 </div>
 <br/>
