@@ -14,8 +14,8 @@ I live by "It works if it works" and firmly believe that Dijkstra's algorithm is
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,react,nodejs,nextjs,nest" /><br/>
-    <img src="https://skillicons.dev/icons?i=express,electron,tailwind,prisma,mongodb,mysql,git,github,docker,k8s" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,html,css,react,nodejs,nextjs,nest,bash" /><br/>
+    <img src="https://skillicons.dev/icons?i=express,electron,tailwind,prisma,mongodb,mysql,git,github,docker,k8s,linux" /><br>
     <br>
 </div>
 <br/>
